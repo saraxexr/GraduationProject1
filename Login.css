@@ -1,0 +1,107 @@
+ .u-section-1 {
+  background-image: url("images/BeigeSkincareProductLandingPageTemplate1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 837px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1040px;
+  height: 599px;
+  margin: 102px 43px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 100px;
+  height: 48px;
+  margin: -490px auto 0 197px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -53px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 413px;
+  margin: 14px 282px 60px 249px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 719px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 566px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -590px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 8px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 570px;
+    margin-left: 149px;
+    margin-right: 182px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 434px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -458px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 39px;
+    margin-right: 72px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 326px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -350px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 699px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 196px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -229px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}

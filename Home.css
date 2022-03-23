@@ -1,0 +1,162 @@
+ .u-section-1 {
+  background-image: url("images/BeigeSkincareProductLandingPageTemplate1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 994px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  text-transform: none;
+  font-weight: 700;
+  font-family: Montserrat, sans-serif;
+  margin: 213px 451px 0 473px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 970px;
+  height: 519px;
+  margin: 46px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 128px;
+  height: 72px;
+  margin: -72px auto 0 85px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 118px;
+  height: 118px;
+  margin: -480px 500px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  width: 752px;
+  margin: 85px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 804px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 351px;
+    margin-left: 373px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 503px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -56px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 412px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 372px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 686px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 241px;
+    margin-left: 263px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 385px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 62px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 316px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 285px;
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 590px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 151px;
+    margin-left: 173px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 289px;
+    margin-top: 51px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 107px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 237px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 214px;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 65.32% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 483px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-right: 51px;
+    margin-left: 73px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 182px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 214px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 149px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 135px;
+    width: 340px;
+  }
+}

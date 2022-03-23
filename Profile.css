@@ -1,0 +1,208 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 635px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 431px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 53px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 74px;
+  height: 74px;
+  margin: 0 auto 0 179px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  margin: 36px auto 0 251px;
+  padding: 9px 9px 11px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1rem;
+  margin: -49px 242px 0 5px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  margin: 68px 242px 0 5px;
+}
+
+.u-section-1 .u-btn-2 {
+  margin: -54px auto 0 251px;
+  padding: 10px 10px 11px 9px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 431px;
+  background-image: url("images/BeigeSkincareProductLandingPageTemplate1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 355px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: 1px;
+    margin-left: 140px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 89px;
+    margin-left: 153px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 145px;
+    margin-left: 2px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 145px;
+    margin-left: 2px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 153px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 355px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 115px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 89px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 81px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 81px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 89px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 272px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -57px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 146px;
+    margin-left: 129px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 42px;
+    margin-right: 42px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 42px;
+    margin-right: 42px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 129px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 408px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-icon-1 {
+    margin-top: -38px;
+    margin-left: 71px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 127px;
+    margin-left: 2px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 2px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 257px;
+  }
+}
